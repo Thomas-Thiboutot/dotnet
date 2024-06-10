@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "70SFyvkD20LhGou6gID9RqitfyRVKLxqUICUwXoof9M=",
+  "Source": "MyApi",
+  "BasePath": "_content/MyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApi\\wwwroot",
+      "Source": "MyApi",
+      "ContentRoot": "C:\\Users\\tomto\\OneDrive\\Bureau\\p\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tomto\\OneDrive\\Bureau\\p\\MyApi\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tomto\\OneDrive\\Bureau\\p\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    }
+  ]
+}
